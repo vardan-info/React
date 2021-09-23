@@ -79,3 +79,5 @@ export default App;
 //   propsTypes.number,
 //   propsTypes.string
 // }),
+const arr = [1,2,3,5,8,5,];
+let [a,e,d,e,d,f] = [true,5]
